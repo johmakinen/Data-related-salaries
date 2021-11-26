@@ -1,6 +1,9 @@
 # Data-related-salaries
 The objective is to do EDA on data related job postings (USA). Later we can try to predict a salary using job posting information.
 
+![job_desc](description_wordcloud.png)
+Words used in job postings.
+
 # Why?
 When applying for a data related job (Data scientist, Data Analyst...), it can be hard to forget how well some companies can pay for your time. Of course, as a mathematical person, the compensations can be a deciding factor between two otherwise similar jobs.
 
