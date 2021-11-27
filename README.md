@@ -13,7 +13,7 @@ When applying for a data related job (Data scientist, Data Analyst...), it can b
 - [x] Perform EDA.
     - We do this to get a clearer picture of the dataset.
     - [ ] Re-do with new data and add section about the data given title
-- [ ] Create a prediction/classifier model that can predict the salary/salary range when given information about the job.
-
+- [x] Create a prediction/classifier model and try to predict the salary/salary range when given information about the job.
+    - We managed to get 60% accuracy with our models. Such accuracy is not necessarily bad considering our data and the number of categories predicted (3-10).
 - [ ] ~~Dockerize and deploy, so that anyone can use the tool~~
     - The point of the whole tool is to help you understand what different positions are paying, which can then be leveraged in the interviews for your own benefit. Do not let employers lowball you!
