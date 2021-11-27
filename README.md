@@ -12,6 +12,7 @@ When applying for a data related job (Data scientist, Data Analyst...), it can b
 - [x] Read the data and clean it
 - [x] Perform EDA.
     - We do this to get a clearer picture of the dataset.
+    - [ ] Re-do with new data and add section about the data given title
 - [ ] Create a prediction/classifier model that can predict the salary/salary range when given information about the job.
 
 - [ ] Dockerize and deploy, so that anyone can use the tool
